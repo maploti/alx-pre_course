@@ -1,1 +1,1 @@
-My first readme
+Software Engineer in the making
